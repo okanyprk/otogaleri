@@ -1,0 +1,17 @@
+C:\Users\Okan\Desktop\sistemanalizi\otogaleri\obj\Debug\otogaleri.csprojAssemblyReference.cache
+C:\Users\Okan\Desktop\sistemanalizi\otogaleri\obj\Debug\otogaleri.Form1.resources
+C:\Users\Okan\Desktop\sistemanalizi\otogaleri\obj\Debug\otogaleri.Properties.Resources.resources
+C:\Users\Okan\Desktop\sistemanalizi\otogaleri\obj\Debug\otogaleri.csproj.GenerateResource.cache
+C:\Users\Okan\Desktop\sistemanalizi\otogaleri\obj\Debug\otogaleri.csproj.CoreCompileInputs.cache
+C:\Users\Okan\Desktop\sistemanalizi\otogaleri\bin\Debug\otogaleri.exe.config
+C:\Users\Okan\Desktop\sistemanalizi\otogaleri\bin\Debug\otogaleri.exe
+C:\Users\Okan\Desktop\sistemanalizi\otogaleri\bin\Debug\otogaleri.pdb
+C:\Users\Okan\Desktop\sistemanalizi\otogaleri\obj\Debug\otogaleri.exe
+C:\Users\Okan\Desktop\sistemanalizi\otogaleri\obj\Debug\otogaleri.pdb
+C:\Users\Okan\Desktop\sistemanalizi\otogaleri\obj\Debug\otogaleri.kayit.resources
+C:\Users\Okan\Desktop\sistemanalizi\otogaleri\obj\Debug\otogaleri.anamenu.resources
+C:\Users\Okan\Desktop\sistemanalizi\otogaleri\obj\Debug\otogaleri.Form2.resources
+C:\Users\Okan\Desktop\sistemanalizi\otogaleri\obj\Debug\otogaleri.aracekle.resources
+C:\Users\Okan\Desktop\sistemanalizi\otogaleri\obj\Debug\otogaleri.arabakirala.resources
+C:\Users\Okan\Desktop\sistemanalizi\otogaleri\obj\Debug\otogaleri.arabateslimal.resources
+C:\Users\Okan\Desktop\sistemanalizi\otogaleri\obj\Debug\otogaleri.arabasat.resources
